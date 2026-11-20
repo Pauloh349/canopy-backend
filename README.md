@@ -1,12 +1,12 @@
 # 🎓 Campus Connect — Backend API
 
-The backend service for a student-focused social and academic platform where university students can share lecture notes, past papers, and everyday campus moments.
+The backend service for a student-focused social and academic platform where university students can share lecture notes, past papers, and everyday campus moments (Canopy).
 
 ---
 
 ## ✨ Core Features (Planned)
 
-* **Student Authentication:** Secure registration and login restricted to verified student emails (e.g., `.ac.ke`, `.edu`).
+* **Student Authentication:** Secure registration and login restricted to verified student emails
 * **Academic Notes Hub:** Upload, categorize (by course/unit), search, and download lecture notes and revision materials (PDFs, docs).
 * **Campus Moments Feed:** Share photos, short updates, and campus life highlights with fellow students.
 * **Community Interactions:** Like, comment, and bookmark helpful study resources and posts.
@@ -17,7 +17,7 @@ The backend service for a student-focused social and academic platform where uni
 
 * **Runtime:** Node.js
 * **Framework:** Express.js
-* **Database:** *(TBD — PostgreSQL / MongoDB)*
+* **Database:** *(PostgreSQL)*
 * **Authentication:** JSON Web Tokens (JWT) & bcrypt
 * **Media & File Storage:** Cloudinary / AWS S3 + Multer
 

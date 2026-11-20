@@ -1,0 +1,21 @@
+{
+  "name": "canopy-backend",
+  "version": "1.0.0",
+  "description": "The backend service for a student-focused social and academic platform where university students can share lecture notes, past papers, and everyday campus moments (Canopy).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauloh349/canopy-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pauloh349/canopy-backend/issues"
+  },
+  "homepage": "https://github.com/Pauloh349/canopy-backend#readme"
+}
