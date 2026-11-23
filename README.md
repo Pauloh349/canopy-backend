@@ -14,16 +14,16 @@ The vision is to create a unified learning ecosystem where students can discover
 
 CANOPY is currently in its early development stage. The project is being built from scratch, beginning with the backend infrastructure and gradually expanding into a complete student platform.
 
-| Area | Status |
-|---|---|
-| Project planning | 🟢 Completed |
-| Backend foundation | 🟡 In progress |
-| Database architecture | ⚪ Planned |
-| Authentication | ⚪ Planned |
-| Resource management | ⚪ Planned |
-| API ecosystem | ⚪ Planned |
-| Frontend | ⚪ Planned |
-| Deployment | ⚪ Planned |
+| Area                  | Status         |
+| --------------------- | -------------- |
+| Project planning      | 🟢 Completed   |
+| Backend foundation    | 🟡 In progress |
+| Database architecture | ⚪ Planned     |
+| Authentication        | ⚪ Planned     |
+| Resource management   | ⚪ Planned     |
+| API ecosystem         | ⚪ Planned     |
+| Frontend              | ⚪ Planned     |
+| Deployment            | ⚪ Planned     |
 
 ---
 
@@ -44,24 +44,31 @@ The goal of CANOPY is to build more than a repository of academic notes. It aims
 ## ✨ Planned Features
 
 ### 📖 Learning Resources
+
 A centralized library for academic materials, including notes, revision materials, past papers, summaries, and other educational content.
 
 ### 🔍 Discovery & Search
+
 Explore resources through categories, tags, search, and personalized discovery.
 
 ### 👤 Student Accounts
+
 User profiles, authentication, and personalized experiences.
 
 ### 🔖 Personal Workspace
+
 Save resources, build collections, and keep track of useful learning materials.
 
 ### 📤 Resource Sharing
+
 Allow students to contribute resources and share knowledge with the wider learning community.
 
 ### 🔌 CANOPY API
+
 A versioned REST API designed to support CANOPY's frontend and potential third-party integrations.
 
 ### 🧠 Future Learning Tools
+
 Explore intelligent study tools, resource analysis, revision assistance, and other learning-focused features.
 
 ---
@@ -69,19 +76,23 @@ Explore intelligent study tools, resource analysis, revision assistance, and oth
 ## 🏗️ Technology Stack
 
 ### Backend
+
 - [Node.js](https://nodejs.org/) — Runtime
 - [TypeScript](https://www.typescriptlang.org/) — Type-safe development
 - [Fastify](https://fastify.dev/) — Backend framework
 - [Zod](https://zod.dev/) — Validation
 
 ### Database
+
 - [PostgreSQL](https://www.postgresql.org/) — Relational database
 - [Prisma](https://www.prisma.io/) — ORM and database tooling
 
 ### Frontend
+
 - [Next.js](https://nextjs.org/) — Web application framework
 
 ### Testing & Tooling
+
 - [Vitest](https://vitest.dev/) — Testing framework
 - Git & GitHub — Version control and collaboration
 
@@ -175,13 +186,13 @@ The goal is not just to finish the project, but to understand the engineering be
 
 Project documentation and development notes will be maintained in the [`docs/`](docs/) directory.
 
-| Document | Description |
-|---|---|
-| [Development Journey](docs/JOURNEY.md) | Milestones and overall progress |
-| [Architecture](docs/ARCHITECTURE.md) | System architecture |
-| [Technical Decisions](docs/DECISIONS.md) | Engineering decisions and reasoning |
-| [API Documentation](docs/API.md) | API design and endpoints |
-| [Development Journal](docs/journal/) | Session-by-session development notes |
+| Document                                 | Description                          |
+| ---------------------------------------- | ------------------------------------ |
+| [Development Journey](docs/JOURNEY.md)   | Milestones and overall progress      |
+| [Architecture](docs/ARCHITECTURE.md)     | System architecture                  |
+| [Technical Decisions](docs/DECISIONS.md) | Engineering decisions and reasoning  |
+| [API Documentation](docs/API.md)         | API design and endpoints             |
+| [Development Journal](docs/journal/)     | Session-by-session development notes |
 
 ---
 
